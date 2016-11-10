@@ -1,24 +1,8 @@
-# README
+# My First Song
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+* App that lets you write a song and it will play the notes for you
 
-Things you may want to cover:
+* Allows user to enter notes so that you can compose music.
 
-* Ruby version
+* Proven Best Way to Compose a New Piece, BETTER THAN GARAGEBAND! 
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
